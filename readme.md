@@ -2,8 +2,8 @@
 This is Kenny Tong Kai Hin. I am currently a CSCI student in CUHK.
 
 # Experience in Github and Experience
-I am ** no** experience in Github but I only made a few project as a "Developer"
-- [x] Coding a snake game with _ pascal_
+I am **no** experience in Github but I only made a few project as a "Developer"
+- [x] Coding a snake game with _pascal_
 - [x] Coding a simple flappy bird game using _ Corona SDK_ ~~(Not Coronavirus :P)~~
 
 # Programming language that I have learnt
@@ -28,4 +28,5 @@ ESTR2004 | Discrete Mathematics for Engineers|
 CSCI2100 | Data Structures |
 CSCI3250 | This course |
 
- 
+# Screenshot
+![alt text](https://github.com/csci3251-2020/student-1155126304/blob/master/milestone2%20screenshot.png?raw=true)
