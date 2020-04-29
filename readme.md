@@ -18,7 +18,7 @@ I am **no** experience in Github but I only made a few project as a "Developer"
 4. AI
 5. CS50@Edx
 6. Javascript
-7. Prevent receing hairline
+7. Prevent receding hairline
 
 # Courses taken
 Course code | Course name | 
