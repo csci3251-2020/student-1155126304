@@ -15,7 +15,7 @@ I am **no** experience in Github but I only made a few projects as a "Developer"
 - League of Legends
 - Total War - Three Kingdoms
 - CS:GO
-~~Kahoot~~
+ - ~~Kahoot~~
 
 ##  Things that I want to learn in the future
 1. C++
